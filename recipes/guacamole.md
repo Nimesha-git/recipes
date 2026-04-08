@@ -4,4 +4,5 @@
    Lime
    Tomato
    Onions
+   Salt
 ## Instructions
