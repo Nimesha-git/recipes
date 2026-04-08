@@ -1,9 +1,10 @@
 # Guacamole
 ## Ingredients
-   Avacado
-   Lime
-   Tomato
-   Onions
-   Salt
-   Jalapeno
+  * Avacado
+  * Lime
+  * Tomato
+  * Onions
+  * Salt
+  * Jalapeno
+  * Pepper
 ## Instructions
