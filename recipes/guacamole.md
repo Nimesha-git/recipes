@@ -5,4 +5,5 @@
    Tomato
    Onions
    Salt
+   Jalapeno
 ## Instructions
